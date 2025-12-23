@@ -98,7 +98,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/abujaforhadi">
+                <a href="https://www.jafor.me/">
                     <img src="https://avatars.githubusercontent.com/abujaforhadi" width="100px;"
                         alt="Md Abu Jafor" />
                     <br />
